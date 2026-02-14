@@ -12,6 +12,6 @@ initial demo code
 
 
 <input type="Submit">Submit</input>
-<input type="Clear">Reset</input>
+<input type="reset">Reset</input>
 </body>
 </html>
